@@ -16,7 +16,7 @@
 ## How to use this app
 ### Installation steps:
 1. Install Ruby 3.*
-2. clone the repository: git clone https://github.com/AntonTmk/cars_management.git
+2. clone the repository: git clone github.com/sh1fuo/Summer-Practice/
 ### How to use:
 * Run start.rb  using the following command: ruby index.rb
 * Type the car make name or press Enter to skip
